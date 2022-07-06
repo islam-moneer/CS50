@@ -1,9 +1,0 @@
-#installation
-
-- For Linux (Ubuntu)
-  install VSCode
-  install C/C++ Extension
-  Go to https://github.com/cs50/libcs50/blob/main/README.md
-
-compile: $ gcc FileName.c -lcs50 -o File
-run: $ run File
